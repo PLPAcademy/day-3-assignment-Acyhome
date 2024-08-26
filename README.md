@@ -58,7 +58,7 @@ This command launches the app on an emulator or connected device, allowing you t
 
 #Python Installation
 
-What is the first step to install Python on a Windows system?
+1. What is the first step to install Python on a Windows system?
 
 A) Run the installer without any customization
 B) Download Python from the official website
@@ -71,7 +71,7 @@ B) Download Python from the official website
 
 This is because you need to obtain the Python installer from the official Python website before you can proceed with the installation on your system.
 
-Which option should you ensure is checked during Python installation on Windows?
+2. Which option should you ensure is checked during Python installation on Windows?
 
 A) Install with default settings
 B) Install to a custom directory
@@ -84,7 +84,7 @@ C) Add Python to PATH
 
 This is important because it allows you to run Python from the command line without needing to manually navigate to the installation directory each time.
 
-How do you verify Python installation on any system?
+3. How do you verify Python installation on any system?
 
 A) By running python --version
 B) By restarting your computer
@@ -97,7 +97,7 @@ A) By running python --version
 
 This command checks if Python is installed correctly by displaying the installed version of Python in the terminal or command prompt.
 
-What command is used to install pip on macOS and Linux?
+4. What command is used to install pip on macOS and Linux?
 
 A) sudo install pip
 B) pip install python
@@ -110,7 +110,7 @@ C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 This command downloads the get-pip.py script, which is then used to install pip. Pip is the package manager for Python, and this script ensures that it's installed properly on your system.
 
-What is the purpose of a virtual environment in Python?
+5. What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder
 B) To install Python in a different directory
@@ -125,7 +125,7 @@ A virtual environment allows you to isolate dependencies for different projects,
 
 #MySQL Installation
 
-What is the first step to install MySQL on Windows?
+1. What is the first step to install MySQL on Windows?
 
 A) Download MySQL Shell
 B) Download MySQL Installer from the official website
@@ -138,7 +138,7 @@ B) Download MySQL Installer from the official website
 
 This is because you need the MySQL Installer to handle the installation process, including downloading and setting up MySQL Server, MySQL Workbench, and other related tools. 
 
-What setup type should you choose for a custom MySQL installation?
+2. What setup type should you choose for a custom MySQL installation?
 
 A) Developer Default
 B) Server Only
@@ -151,7 +151,7 @@ D) Custom
 
 This setup type allows you to select and configure specific MySQL components and features according to your needs, rather than using the predefined options in the other setup types.
 
-Which products should you select during the MySQL installation?
+3. Which products should you select during the MySQL installation?
 
 A) MySQL Server, MySQL Workbench, and MySQL Shell
 B) Only MySQL Server
@@ -164,7 +164,7 @@ A) MySQL Server, MySQL Workbench, and MySQL Shell
 
 This selection includes the core MySQL Server for database management, MySQL Workbench for GUI-based database design and management, and MySQL Shell for advanced scripting and management tasks. This combination provides a comprehensive setup for development and administration.
 
-What is the purpose of setting a root password during MySQL installation?
+4. What is the purpose of setting a root password during MySQL installation?
 
 A) To create a user account for your MySQL server
 B) To secure your MySQL installation with a super-secret password
@@ -177,7 +177,7 @@ B) To secure your MySQL installation with a super-secret password
 
 The root password is used to secure administrative access to the MySQL server, ensuring that only authorized users can perform sensitive operations and manage the database system. 
 
-How do you begin managing your database after installing MySQL?
+5. How do you begin managing your database after installing MySQL?
 
 A) Start by installing additional plugins
 B) Launch MySQL Workbench and connect to your MySQL Server
